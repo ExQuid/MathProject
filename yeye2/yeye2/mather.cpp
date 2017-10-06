@@ -24,15 +24,14 @@ mather::mather() {
 			a = a * 3 + 1;
 			counter = counter + 1;
 		}
-
+		
 	}
 
 	return a;
 }
 
 string mather::input(string a) {
-	string command;
-	cin >> command;
+	
 	for (int i = 0; i < collection.size(); i++)
 	{
 		if (a == collection[0])
@@ -55,10 +54,7 @@ string mather::input(string a) {
 			}
 
 		}
-		else {
-			cout << "We aint good lol" << endl;
-
-		}
+		
 		return a;
 	}
 }

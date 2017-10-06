@@ -12,9 +12,14 @@ mather mathCalc;
 
 int main()
 {
+	string command;
+	cout << "Enter the command:";
 	cin >> command;
+
 	mathCalc.input(command);
-	
+
+	main();
+
 	return 0;
 }
 

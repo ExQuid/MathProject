@@ -1,9 +1,10 @@
 ﻿  yeye2.cpp
   mather.cpp
 c:\users\jens.ahlen\documents\visual studio 2015\projects\yeye2\yeye2\mather.cpp(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-c:\users\jens.ahlen\documents\visual studio 2015\projects\yeye2\yeye2\mather.cpp(36): warning C4018: '<': signed/unsigned mismatch
-c:\users\jens.ahlen\documents\visual studio 2015\projects\yeye2\yeye2\mather.cpp(52): warning C4018: '<': signed/unsigned mismatch
+c:\users\jens.ahlen\documents\visual studio 2015\projects\yeye2\yeye2\mather.cpp(35): warning C4018: '<': signed/unsigned mismatch
+c:\users\jens.ahlen\documents\visual studio 2015\projects\yeye2\yeye2\mather.cpp(51): warning C4018: '<': signed/unsigned mismatch
   Generating Code...
-c:\users\jens.ahlen\documents\visual studio 2015\projects\yeye2\yeye2\mather.cpp(64): warning C4715: 'mather::input': not all control paths return a value
+c:\users\jens.ahlen\documents\visual studio 2015\projects\yeye2\yeye2\mather.cpp(60): warning C4715: 'mather::input': not all control paths return a value
+c:\users\jens.ahlen\documents\visual studio 2015\projects\yeye2\yeye2\yeye2.cpp(24): warning C4717: 'main': recursive on all control paths, function will cause runtime stack overflow
   yeye2.vcxproj -> C:\Users\jens.ahlen\documents\visual studio 2015\Projects\yeye2\Debug\yeye2.exe
   yeye2.vcxproj -> C:\Users\jens.ahlen\documents\visual studio 2015\Projects\yeye2\Debug\yeye2.pdb (Full PDB)
