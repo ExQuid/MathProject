@@ -7,14 +7,14 @@
 
 using namespace std;
 
-string command;
+static string command;
 mather mathCalc;
 
 int main()
 {
+	cin >> command;
+	mathCalc.input(command);
 	
-	
-	main();
 	return 0;
 }
 
