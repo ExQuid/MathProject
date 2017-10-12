@@ -1,0 +1,4 @@
+﻿  yeye.cpp
+c:\users\jens.ahlen\documents\visual studio 2015\projects\yeye\yeye\yeye.cpp(18): warning C4717: 'main': recursive on all control paths, function will cause runtime stack overflow
+  yeye.vcxproj -> c:\users\jens.ahlen\documents\visual studio 2015\Projects\yeye\Debug\yeye.exe
+  yeye.vcxproj -> c:\users\jens.ahlen\documents\visual studio 2015\Projects\yeye\Debug\yeye.pdb (Full PDB)

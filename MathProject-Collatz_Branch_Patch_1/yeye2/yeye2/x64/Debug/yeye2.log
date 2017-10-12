@@ -1,0 +1,5 @@
+﻿  mather.cpp
+c:\users\jens ahlén\desktop\mathproject-collatz_branch_patch_1\yeye2\yeye2\mather.cpp(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\jens ahlén\desktop\mathproject-collatz_branch_patch_1\yeye2\yeye2\mather.cpp(61): warning C4715: 'mather::input': not all control paths return a value
+  yeye2.vcxproj -> C:\Users\Jens Ahlén\Desktop\MathProject-Collatz_Branch_Patch_1\yeye2\x64\Debug\yeye2.exe
+  yeye2.vcxproj -> C:\Users\Jens Ahlén\Desktop\MathProject-Collatz_Branch_Patch_1\yeye2\x64\Debug\yeye2.pdb (Partial PDB)
